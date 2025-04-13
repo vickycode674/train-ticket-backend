@@ -5,7 +5,7 @@ import seatRoutes from './routes/seat.routes';
 import cors from 'cors';
 const app = express();
 
-app.use(cors({ origin: 'http://localhost:3000', credentials: true }));
+app.use(cors({ origin: 'https://train-ticket-frontend-m45946lfl.vercel.app', credentials: true }));
 
 
 dotenv.config();
