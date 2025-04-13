@@ -8,6 +8,6 @@ export const pool = new Pool({
 });
 
 pool.query('SELECT current_database()', (err, res) => {
-    console.log('Connected to DB:', res?.rows[0]?.current_database);
+    console.log('Connected to DB:', res?.rows);
   });
   
