@@ -1,17 +1,12 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/vickycode674/train-ticket-frontend">
-    <img src="your-logo-or-project-image.png" alt="Train Ticket Frontend Logo" width="150">
-  </a>
 
   <h3 align="center">Train Ticket Booking System</h3>
 
   <p align="center">
     A full-stack train seat reservation system with user authentication and smart seat allocation. Built with Next.js, React, Node.js, Express, and PostgreSQL.
     <br />
-    <a href="your-deployed-application-link.com"><strong>🚀 View Live Demo</strong></a>
-    <br />
-    <a href="https://github.com/vickycode674/train-ticket-frontend/issues">🐞 Report Issues</a>
+    <a href="https://github.com/vickycode674/train-ticket-frontend">Check frontend here</a>
   </p>
 </p>
 
